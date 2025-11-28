@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:-1, ATN Bangla HD
+http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=ded9a3c6b0487980ce8eacaee86949c32ce46fcf-d610bea8adbef5b53067b4636eeb5498-1764367488-1764356688
+
+#EXTINF:-1, ATN News HD
+http://10.99.99.99:8082/ATN.NEWS.HD/tracks-v1a1/mono.m3u8?token=a154709a92fd369a5444c5fbfa8437885dac06db-0f4817233b336ae567d0baf8370d3767-1764368327-1764357527
+
+#EXTINF:-1, Channel 24 HD
+http://10.99.99.99:8082/CHANNEL.24.HD/tracks-v1a1/mono.m3u8?token=739fec9de3cb92d17abf481bef2ead432131e013-aa967ac09a46ea5e43ac3143cee6636b-1764368416-1764357616
+
+#EXTINF:-1, Channel I HD
+http://10.99.99.99:8082/CHANNEL.I.HD/tracks-v1a1/mono.m3u8?token=64100a1ddf6c68f702916390bb173ddb8fd0b78b-d38434b8cc8109870fcd3fe06ca58d1d-1764368578-1764357778
+
+#EXTINF:-1 group-title="Bangla Cinema", Colors Bangla Cinema
+http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=a0423b399ade502a790cd7257ac31b901722086b-bd229fd4ecbfcda0f65018c285c873d7-1764368646-1764357846
+
+#EXTINF:-1 group-title="Bangla Channels", Colors Bangla HD
+http://10.99.99.99:8082/COLORS.BANGLA.HD/tracks-v1a1/mono.m3u8?token=99e59816512326ac265659795303531ed4d53368-2ac540b78b81120c84a9424d9b54f6b6-1764368810-1764358010
+
+#EXTINF:-1 group-title="Sports Channels", Gazi TV HD
+http://10.99.99.99:8082/GAZI.TV.HD/tracks-v1a1/mono.m3u8?token=ae11299430baffbd480dbc7276e070ae7b2f7c6a-3b39de6fbe93017de419c6544748e50e-1764368862-1764358062
+
+#EXTINF:-1 group-title="Sports Channels", T Sports HD
+http://10.99.99.99:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=b10f6c578a30b62637ed17f8e3d5ad14697fa894-14a60437fa27ae7d8767d57f43b29007-1764369102-1764358302
+
+#EXTINF:-1 group-title="News Channels", Independent TV
+http://10.99.99.99:8082/INDEPENDENT.TV/tracks-v1a1/mono.m3u8?token=1bb04bfcc4fa47baf051175171477d064f5b5752-3c1f85eeb790612e6819cffc4490e97b-1764368895-1764358095
+
+#EXTINF:-1 group-title="Movies", JALSHA Movies HD
+http://10.99.99.99:8082/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8?token=00724fa74ff0b5a23cc4787e8833aef4c8eb22d1-3c54d7f3e23393f92ea7f823a559a680-1764368930-1764358130
+
+#EXTINF:-1 group-title="News Channels", Jamuna TV
+http://10.99.99.99:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=cca565202277993b386406fe71b113332e305a75-320ce1e01821f979cbe2a2dc0228e3a6-1764368944-1764358144
+
+#EXTINF:-1 group-title="Bangla Channels", Masranga TV HD
+http://10.99.99.99:8082/MASRANGA.TV.HD/tracks-v1a1/mono.m3u8?token=de63cc8d8f7fcb7f58a3ea31072090b2d26a3c7d-e3b4c1b5b22ba05c2c98a45ed8b657eb-1764368961-1764358161
+
+#EXTINF:-1 group-title="Bangla Channels", Nagorik TV HD
+http://10.99.99.99:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=05aaf21a2416fe1a06a243792ef6a0fe3d79ea14-8324b1b1756f3afae55f8e724ad349e8-1764369001-1764358201
+
+#EXTINF:-1 group-title="News Channels", Somoy TV HD
+http://10.99.99.99:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=eb063fb7956d020a3887dd4c46778e5aaa2cd0b1-ef81df4224e29e49dcc1459b2539e604-1764369018-1764358218
+
+#EXTINF:-1 group-title="Others", Sony Aat
+http://10.99.99.99:8082/SONY.AAT/tracks-v1a1/mono.m3u8?token=95f69eedd6c7a9ff5fc24ea96ac36717b60e5869-ff6a196bea2199786eb41cc0f55f5e6a-1764369033-1764358233
+
+#EXTINF:-1 group-title="Bangla Channels", Sun Bangla HD
+http://10.99.99.99:8082/SUN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=32883f5f5f8ea9612ecd833eb554079d0d182bf1-216a0bbaabaa56ab636d86695812a9cf-1764369057-1764358257
+
+#EXTINF:-1 group-title="International News", Al Jazeera HD
+http://10.99.99.99:8082/ALJAZEERA.HD/tracks-v1a1/mono.m3u8?token=953da942eb7d82788dc57b12d8e916ad617a60c8-d140a83a8f4a2e0abf7986c7136bea8e-1764369292-1764358492
+
+#EXTINF:-1 group-title="Entertainment", AND Flix HD
+http://10.99.99.99:8082/AND.FLIX.HD/tracks-v1a1/mono.m3u8?token=a0761d23a65c7a14e5af0fab618afdd27cfb932d-4ad68df794883d564479c4a50f7c629b-1764369318-1764358518
+
+#EXTINF:-1 group-title="Entertainment", AND Prive HD
+http://10.99.99.99:8082/AND.PRIVE.HD/tracks-v1a1/mono.m3u8?token=9c015b918adf27880d21818ca227e5351cc8e0a6-425e17dd1b7a7bc29b4269833d516e85-1764369336-1764358536
+
+#EXTINF:-1 group-title="Infotainment", Xplor HD
+http://10.99.99.99:8082/XPLOR.HD/tracks-v1a1/mono.m3u8?token=d39a5147e23ef7aaaaf8354088f72eca507c2b07-3529466843cf744506da0689900fca24-1764369358-1764358558
+
+#EXTINF:-1 group-title="Wildlife", Animal Planet HD
+http://10.99.99.99:8082/ANIMAL.PLANET.HD/tracks-v1a1/mono.m3u8?token=0d32d6cda8d68130a700bd44b6278698ba07b6a1-388c6440fcaa5c1fd355e7c984bb9951-1764369378-1764358578
+
+#EXTINF:-1 group-title="Knowledge", Discovery HD
+http://10.99.99.99:8082/DISCOVERY.HD/tracks-v1a1/mono.m3u8?token=c594030fd3709b57b0f5f8ba85cb1bca674ebc37-df904afc30e37338294bc26ba687c10e-1764369397-1764358597
+
+#EXTINF:-1 group-title="Music", Hits Music HD
+http://10.99.99.99:8082/HITS.MUSIC.HD/tracks-v1/mono.m3u8?token=9a1100472daf5c55e5f315be33db3986d894163f-fddc6776554fe56d4a0bb5388ea37e63-1764369419-1764358619
+
+#EXTINF:-1 group-title="Regional", Lotus TV HD
+http://10.99.99.99:8082/Lotus.TV.HD/tracks-v1a1/2025/11/28/19/42/00-06000.ts?token=8964ce4914fb6a44a6c0b1f132d62adde1904954-af5cbc6e7f25fd02ca127443db230eb4-1764369446-1764358646
+
+#EXTINF:-1 group-title="International Movies", Movies Now HD
+http://10.99.99.99:8082/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?token=8efff3e50751a628660e7f83af9fda1872a2344d-6db698be8fc44eefcafc14f35368de95-1764369475-1764358675
+
+#EXTINF:-1 group-title="Documentary", National Geographic HD
+http://10.99.99.99:8082/NATGEO.HD/tracks-v1a1/mono.m3u8?token=67e5e5d25ef0a22cff36349e5fe5aac290682527-40cd2cb977a03ec274cf05d1406d2e42-1764369488-1764358688
+
+#EXTINF:-1 group-title="Nature", NatGeo Wild HD
+http://10.99.99.99:8082/NATGEO.WILD.HD/tracks-v1a1/mono.m3u8?token=099a4afc9327e4e564966172a4de35a0e4a03be8-1851f559fff9aab0838fec952fa85472-1764369508-1764358708
+
+#EXTINF:-1 group-title="Comedy", Romedy Now HD
+http://10.99.99.99:8082/ROMEDY.NOW/tracks-v1a1/mono.m3u8?token=49e5b16b3874bee49ae56bd2355b3fd887f02292-8585bfa48dfd60fe456f8bef55fc9f21-1764369524-1764358724
+
+#EXTINF:-1 group-title="Hollywood", Sony Pix HD
+http://10.99.99.99:8082/SONY.PIX.HD/tracks-v1a1/mono.m3u8?token=335a9b157ee7a62f21fac8e2ab21e5877de562c4-00fd0a5078409a11c3d9c5e7ff841fd3-1764369551-1764358751
+
+#EXTINF:-1 group-title="Star Network", Star Movies HD
+http://10.99.99.99:8082/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8?token=26b593d9f776708745fd6393b62de62efbec1cf0-a1a843b6b7a15410c174c0ee47344212-1764369598-1764358798
+
+#EXTINF:-1 group-title="Islamic", Madani TV HD
+http://10.99.99.99:8082/MADANI.TV.HD/tracks-v1a1/mono.m3u8?token=8454890df0cc729e047c35942043a1f4bcaf45a6-27378a0d5c21380e7cb2d5bb41c4a840-1764370316-1764359516
+
+#EXTINF:-1 group-title="Kids", Nick
+http://10.99.99.99:8082/NICK/tracks-v1a1/mono.m3u8?token=6f44c5711675db390888ab6f53163d1141ab9ffc-f6fd5611162d36f31e292c57bef3354a-1764370340-1764359540
+
+#EXTINF:-1 group-title="Kids", Hungama TV
+http://10.99.99.99:8082/HUNGAMA/tracks-v1a1/mono.m3u8?token=4c7ee95acfafc918c44b34c913840ec09afb5233-b9ccc0b27ca7b4c443132563b3d17d3d-1764370355-1764359555
+
+#EXTINF:-1 group-title="Kids", Sonic
+http://10.99.99.99:8082/SONIC/tracks-v1a1/mono.m3u8?token=913db9acf20abf437383857a8f45b7202f5ab002-9ea2132d76d9ffef9e103249dbd1ffdf-1764370374-1764359574
+
+#EXTINF:-1 group-title="Kids", Sony Yay
+http://10.99.99.99:8082/SONY.YAY/tracks-v1a1/mono.m3u8?token=f6abd53452cb453b70473fc6a58372d22fbf1fe5-7dda1027043d82d3d656a14d97cb2239-1764370392-1764359592
+
+#EXTINF:-1 group-title="Kids", Super Hungama
+http://10.99.99.99:8082/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8?token=98b65e07e25212a9746273a5c0d939f44fae2977-eeeec521d30a5887f04e61aebff1d505-1764370405-1764359605
+
+#EXTINF:-1 group-title="Sports", PTV Sports HD
+http://10.99.99.99:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=c48fccc50058a2b37e21484fd65454937d54a7d9-0474170497049e2c2bf84223ce61ba25-1764370462-1764359662
+
+#EXTINF:-1 group-title="Sports", Sony Sports 1 HD
+http://10.99.99.99:8082/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=b4f421461e1f1675d158f23fb61e71104985b88c-d650ab182044904c2379f8d0ea995ab0-1764370475-1764359675
+
+#EXTINF:-1 group-title="Sports", Sony Sports 2 HD
+http://10.99.99.99:8082/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=b6346575e3375c5d62bebb173adacdb742769fa8-cd3d9c4ccb727bf158fdcb024e92dadc-1764370496-1764359696
+
+#EXTINF:-1 group-title="Sports", Sony Sports 3
+http://10.99.99.99:8082/SONY.SPORTS.3/tracks-v1a1/mono.m3u8?token=03920a813e95468a2469ef0c16ca938a7e9bfd7e-28ded01ebf1481f2ca7efd32b67dcb53-1764370511-1764359711
+
+#EXTINF:-1 group-title="Sports", Sony Sports 4
+http://10.99.99.99:8082/SONY.SPORTS.4/tracks-v1a1/mono.m3u8?token=53ed146526911c842e3127612d1cadf91316c348-b8ec322a7c7bc129864249d317892332-1764370530-1764359730
+
+#EXTINF:-1 group-title="Sports", Sony Sports 5 HD
+http://10.99.99.99:8082/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8?token=f76be1032daa6cb47f325d094fea6695ddd15b5c-66718a8969a2be4b4bf79a3bd25f7e03-1764370544-1764359744
+
+#EXTINF:-1 group-title="Sports", Star Sports 1 HD
+http://10.99.99.99:8082/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8?token=bc0123ac0810492c7778dada60e46798e0b56e76-9f126ba75672aa963022b59604b6b036-1764370562-1764359762
+
+#EXTINF:-1 group-title="Sports", Star Sports 2 HD
+http://10.99.99.99:8082/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=5301e19b551158d5947100bc06baaf5ad10605fa-d48f7a861f1c8f35c6a30c60987a161f-1764370575-1764359775
+
+#EXTINF:-1 group-title="Sports", Star Sports Select 2 HD
+http://10.99.99.99:8082/STAR.SPORTS.SEL.2.HD/tracks-v1a1/mono.m3u8?token=dbd00f43f06a23f19362e5a476de0f0a8f31f235-25e2bcafb89281433c237d35ea6f382f-1764370592-1764359792
+
+#EXTINF:-1 group-title="Sports", Star Sports Select 1 HD
+http://10.99.99.99:8082/STAR.SPORTS-SEL1.HD/tracks-v1a1/mono.m3u8?token=a877fabfe49aa5befca59f57b6ee57e973bdc0cc-885eb999b315b43d000fefe43a943569-1764370612-1764359812
+
+#EXTINF:-1 group-title="Sports", Golf Sports
+http://10.99.99.99:8082/GOLF.SPORTS/tracks-v1a1/mono.m3u8?token=6edf180c2f08bf0e1d820a58c68794aa7f67fbc6-f2ad722a78c86390d9131e80bc8f155d-1764370640-1764359840
+
+#EXTINF:-1 group-title="Star Network", Star Movies Select HD
+http://10.99.99.99:8082/STAR.MOVIES.SEL.HD/tracks-v1a1/mono.m3u8?token=7ac8c0fa76838a2eb4b951064e4e9854831c2cc9-eafd1603efc6875243311648e54f957a-1764370040-1764359240
+
+#EXTINF:-1 group-title="Travel & Lifestyle", TravelXP HD
+http://10.99.99.99:8082/TRAVELXP.HD/tracks-v1a1/mono.m3u8?token=82128663805abb7b918eb4931c840c89e34d0674-4f5e8bc545518f9999548c033478c202-1764370072-1764359272
+
+#EXTINF:-1 group-title="Movies", & Pictures HD
+http://10.99.99.99:8082/ANT.PICTURS.HD/tracks-v1a1/mono.m3u8?token=89c806d77c39c10430f2a31a1d0a3d7855596b87-760c4c1438f32eb5fc420ab0b61a27b1-1764370106-1764359306
+
+#EXTINF:-1 group-title="Movies", Colors Cineplex HD
+http://10.99.99.99:8082/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8?token=10dec7a1f0b7457dc8c893ece78cd8d6863077eb-5c713c275e9fd3463c4f8559151312a3-1764370116-1764359316
+
+#EXTINF:-1 group-title="Entertainment", Colors HD
+http://10.99.99.99:8082/COLORS.HD/tracks-v1a1/mono.m3u8?token=b67e3dd3506efe62201ca2867abcbb59396d0890-71a73f22424cd93824f7ef244a93e8b0-1764370126-1764359326
+
+#EXTINF:-1 group-title="Entertainment", Sony Entertainment HD
+http://10.99.99.99:8082/SONY.ENT.HD/tracks-v1a1/mono.m3u8?token=960fac639e500a1d58f7c00e9fabcb418b20a0d1-d7fb2c4a3ebfda6fa3a51f8951d02db9-1764370142-1764359342
+
+#EXTINF:-1 group-title="Movies", Sony Max HD
+http://10.99.99.99:8082/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=c24ed0ad32a4a0dd45af5b9d86d6d99a7ba77046-8f0cce838de70e22d9313cb2bc02e6df-1764370154-1764359354
+
+#EXTINF:-1 group-title="Movies", Star Gold HD
+http://10.99.99.99:8082/STAR.GOLD.HD/tracks-v1a1/mono.m3u8?token=c591b35854f72b89ef70415a52a249aa8200fcc2-2406c0ed4aa7e21162a6784ab8b1d2b8-1764370189-1764359389
+
+#EXTINF:-1 group-title="Movies", Star Gold Select HD
+http://10.99.99.99:8082/STAR.GOLD.SEL.HD/tracks-v1a1/mono.m3u8?token=2507f84d4653f2aa5d282ba8476f50faf45b10ab-6d436b19728034b7c9c264981ca74fe1-1764370209-1764359409
+
+#EXTINF:-1 group-title="Movies", Zee Cinema HD
+http://10.99.99.99:8082/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8?token=8a52999861d80d647ec5fd706f5a17da6a7e9a49-63adb0913cfbc54daf291c32643237de-1764370231-1764359431
+
+#EXTINF:-1 group-title="Music", Zing Music
+http://10.99.99.99:8082/ZING.MUSIC/tracks-v1a1/mono.m3u8?token=c64157b24e0a56b9f118a027f8c224d79340913c-6edb9a7f5c54cd46ef1184fb61e4a844-1764370247-1764359447
+
+#EXTINF:-1 group-title="Music", Zoom Music
+http://10.99.99.99:8082/ZOOM.MUSIC/tracks-v1a1/mono.m3u8?token=169e5df6a0bde9057f946a2ca422600181816378-0d1f9583c8efaeaa81eff01ba7d3f6b8-1764370265-1764359465
+
+#EXTINF:-1 group-title="Islamic", Peace TV Bangla HD
+http://10.99.99.99:8082/PEACE.TV.BANGLA.HD/tracks-v1a1/mono.m3u8?token=11760c70fc8d410901b4a45dcf880bc4f808de45-0b1c87c29f1bdf6b189b7e0b42c7d123-1764370294-1764359494
+
+
+
+
